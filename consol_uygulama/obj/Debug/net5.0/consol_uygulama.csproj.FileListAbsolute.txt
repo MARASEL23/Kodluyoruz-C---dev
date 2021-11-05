@@ -1,0 +1,16 @@
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\bin\Debug\net5.0\consol_uygulama.exe
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\bin\Debug\net5.0\consol_uygulama.deps.json
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\bin\Debug\net5.0\consol_uygulama.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\bin\Debug\net5.0\consol_uygulama.runtimeconfig.dev.json
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\bin\Debug\net5.0\consol_uygulama.dll
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\bin\Debug\net5.0\ref\consol_uygulama.dll
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\bin\Debug\net5.0\consol_uygulama.pdb
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\consol_uygulama.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\consol_uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\consol_uygulama.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\consol_uygulama.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\consol_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\consol_uygulama.dll
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\ref\consol_uygulama.dll
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\consol_uygulama.pdb
+C:\Users\yusuf\OneDrive\Documents\GitHub\Kodluyoruz-Csharp\consol_uygulama\obj\Debug\net5.0\consol_uygulama.genruntimeconfig.cache
